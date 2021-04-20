@@ -1,9 +1,9 @@
 # skylight-support-alert
 
-## Discribe
+## Describe
 Website alert and notification handler.
 
-## Language
+## Build with :
     - JavaScript
     - jQuery
     - Bootstrap
